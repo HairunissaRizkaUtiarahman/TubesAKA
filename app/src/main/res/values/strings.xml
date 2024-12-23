@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Melodi</string>
+    <string name="melody_generator">Melody Generator</string>
+    <string name="choose_your_melody_parameters">Choose your melody parameters</string>
+    <string name="melody_length">Melody Length</string>
+    <string name="interval">Interval</string>
+    <string name="generate_melody">Generate Melody</string>
+    <string name="recursive_melody_output">Recursive Melody Output</string>
+    <string name="iterative_melody_output">Iterative Melody Output</string>
+    <string name="running_time_comparison">Running Time Comparison</string>
+    <string name="recursive">Recursive</string>
+    <string name="iteratif">Iteratif</string>
+    <string name="play_melody">Play Melody</string>
+    <string name="stop_melody">Stop Melody</string>
+</resources>
